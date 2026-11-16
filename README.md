@@ -16,6 +16,16 @@
 
 ---
 
+### ⚔️ Codewars
+
+<p align="left">
+  <a href="https://www.codewars.com/users/SN1006">
+    <img src="https://www.codewars.com/users/SN1006/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
