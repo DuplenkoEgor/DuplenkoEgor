@@ -29,6 +29,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MerVoy24&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MerVoy24&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DuplenkoEgor&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DuplenkoEgor&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
